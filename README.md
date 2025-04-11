@@ -7,6 +7,11 @@ I'm Matthew Glenn, a seasoned Software Engineer with 10+ years of experience acr
 - **Senior Software Engineer** at HCL SoFy (2023-2024)
 - **Senior Software Engineer** at HCL/IBM Connections (2016-2023)
 
+## 🎮 Game Development
+
+I'm passionate about game development and work with a talented team! Check out our games and projects:
+- **Digital Daydream Studio**: [itch.io](https://digitaldaydream.itch.io/) - The game development studio I work with to create indie games and projects
+
 ## 💻 Technologies & Tools
 
 ### Operating Systems & Distributions
@@ -28,6 +33,12 @@ I'm Matthew Glenn, a seasoned Software Engineer with 10+ years of experience acr
 [![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-%23c9d1d9?logo=unrealengine&logoColor=black)](https://www.unrealengine.com/)
 [![Godot](https://img.shields.io/badge/-Godot-%23c9d1d9?logo=godotengine&logoColor=black)](https://godotengine.org/)
 [![GB Studio](https://img.shields.io/badge/-GB%20Studio-%23c9d1d9?logo=gameboy&logoColor=black)](https://www.gbstudio.dev/)
+
+### IDEs & Development Environments
+[![VS Code](https://img.shields.io/badge/-VS%20Code-%23c9d1d9?logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Xcode](https://img.shields.io/badge/-Xcode-%23c9d1d9?logo=xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-%23c9d1d9?logo=androidstudio&logoColor=3DDC84)](https://developer.android.com/studio)
+[![Rider](https://img.shields.io/badge/-Rider-%23c9d1d9?logo=rider&logoColor=000000)](https://www.jetbrains.com/rider/)
 
 ### Programming & Scripting
 [![C#](https://img.shields.io/badge/-C%23-%23c9d1d9?logo=csharp&logoColor=purple)](https://docs.microsoft.com/en-us/dotnet/csharp/)
