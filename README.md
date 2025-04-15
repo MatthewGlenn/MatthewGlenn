@@ -58,8 +58,30 @@ I'm passionate about game development and work with a talented team! Check out o
 [![Agile](https://img.shields.io/badge/-Agile-%23c9d1d9?logo=agilesoftwaredevelopment&logoColor=black)](https://agilemanifesto.org/)
 [![Scrum](https://img.shields.io/badge/-Scrum-%23c9d1d9?logo=scrumalliance&logoColor=black)](https://www.scrum.org/)
 
+### AI Tools & Platforms
+[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-%23c9d1d9?logo=github&logoColor=black)](https://github.com/features/copilot)
+[![MCP](https://img.shields.io/badge/-MCP-%23c9d1d9?logo=microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/semantic-kernel/agents/model-context-protocol)
+[![Ollama](https://img.shields.io/badge/-Ollama-%23c9d1d9?logo=ollama&logoColor=black)](https://ollama.com/)
+[![Open WebUI](https://img.shields.io/badge/-Open%20WebUI-%23c9d1d9?logo=openai&logoColor=black)](https://github.com/open-webui/open-webui)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-%23c9d1d9?logo=openai&logoColor=black)](https://openai.com/)
+[![Gemini](https://img.shields.io/badge/-Gemini-%23c9d1d9?logo=google&logoColor=blue)](https://gemini.google.com/)
+[![Claude](https://img.shields.io/badge/-Claude-%23c9d1d9?logo=anthropic&logoColor=black)](https://www.anthropic.com/claude)
+[![Deepseek](https://img.shields.io/badge/-Deepseek-%23c9d1d9?logo=deepseek&logoColor=black)](https://www.deepseek.com/)
+
 ## 🎓 Education
 - BS from NC State University (2009-2014)
+
+## 💻 Projects
+
+### I Need An SD Card
+[ineedansdcard.com](https://ineedansdcard.com/)
+
+A static website that helps consumers find compatible microSD cards for the Nintendo Switch 2.
+- Compare speeds, capacities, and prices
+- Access direct purchase links
+- Scrapes pricing details from Amazon and updates website on a timer
+
+**Technologies used:** React, TypeScript, CSS, VS Code, Cloudfare Pages, Github Actions
 
 ## 🎯 Current Focus
 - Building & optimizing CI/CD pipelines
