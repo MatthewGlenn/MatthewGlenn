@@ -7,10 +7,34 @@ I'm Matthew Glenn, a seasoned Software Engineer with 10+ years of experience acr
 - **Senior Software Engineer** at HCL SoFy (2023-2024)
 - **Senior Software Engineer** at HCL/IBM Connections (2016-2023)
 
-## 🎮 Game Development
+## 💻 Projects
 
-I'm passionate about game development and work with a talented team! Check out our games and projects:
-- **Digital Daydream Studio**: [itch.io](https://digitaldaydream.itch.io/) - The game development studio I work with to create indie games and projects
+### 🎮 Game Development
+
+I'm passionate about game development and work with a talented team called [Digital Daydream](https://digitaldaydream.itch.io/)! Check out our games and projects:
+- **Fetchr Demake** ([Play](https://digitaldaydream.itch.io/fetchr-demake)) - A demake of Fetchr, our next big project, developed. GB Studio
+- **The Witchking's Gambit** ([Play](https://digitaldaydream.itch.io/the-witchkings-gambit)) - Card battler made during the Global Game Jam. GB Studio
+- **Systemic Lives** ([Play](https://digitaldaydream.itch.io/systemic-lives)) - A game jam & research project used to demonstrate the effects of systemic racism. Unreal Engine
+- **Conversations with My Anxiety** ([Play](https://digitaldaydream.itch.io/conversations-with-my-anxiety)) - A short text adventure game dating game. Unity
+
+### 🛠️ Software Projects
+
+#### I Need An SD Card
+
+[ineedansdcard.com](https://ineedansdcard.com/)
+
+A static website that helps consumers find compatible microSD cards for the Nintendo Switch 2.
+- Compare speeds, capacities, and prices
+- Access direct purchase links
+- Scrapes pricing details from Amazon and updates website on a timer
+**Technologies used:** React, TypeScript, CSS, VS Code, Cloudfare Pages, Github Actions
+
+## 🎯 Current Focus
+- Building & optimizing CI/CD pipelines
+- Exploring AI/ML tools for development
+- Contributing to open-source projects
+- Automating development workflows
+
 
 ## 💻 Technologies & Tools
 
@@ -65,24 +89,6 @@ I'm passionate about game development and work with a talented team! Check out o
 
 ## 🎓 Education
 - BS from NC State University (2009-2014)
-
-## 💻 Projects
-
-### I Need An SD Card
-[ineedansdcard.com](https://ineedansdcard.com/)
-
-A static website that helps consumers find compatible microSD cards for the Nintendo Switch 2.
-- Compare speeds, capacities, and prices
-- Access direct purchase links
-- Scrapes pricing details from Amazon and updates website on a timer
-
-**Technologies used:** React, TypeScript, CSS, VS Code, Cloudfare Pages, Github Actions
-
-## 🎯 Current Focus
-- Building & optimizing CI/CD pipelines
-- Exploring AI/ML tools for development
-- Contributing to open-source projects
-- Automating development workflows
 
 ## 📫 Get in Touch
 - LinkedIn: [Matthew Glenn](https://linkedin.com/in/matthewglenn)
